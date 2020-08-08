@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## KendoUI mvvm how to build a dashboard
 
 You can use the [editor on GitHub](https://github.com/waitingSu/javascript/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
